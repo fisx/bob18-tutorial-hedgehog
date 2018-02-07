@@ -1,0 +1,25 @@
+name:                bob18-tutorial-hedgehog
+version:             "0.1"
+synopsis:            "Coure materical for http://bobkonf.de/2018/fischmann.html"
+description:         Please see README.md
+homepage:            https://github.com/fisx/bob18-tutorial-hedgehog
+license:             AGPL
+license-file:        LICENSE
+author:              Matthias Fischmann <mf@zerobuzz.net>
+maintainer:          mf@zerobuzz.net
+copyright:           2018-2023  Matthias Fischmann
+category:            Testing
+
+dependencies:
+  - base
+  - hedgehog
+  - hedgehog-quickcheck
+
+  # needed for examples and exercises
+  - html-parse
+  - tagsoup
+  - lens
+
+library:
+  source-dirs:
+    - src

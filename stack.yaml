@@ -1,0 +1,4 @@
+resolver: lts-10.4
+
+extra-deps:
+- html-parse-0.2.0.1

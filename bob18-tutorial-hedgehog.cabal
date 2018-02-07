@@ -1,0 +1,33 @@
+-- This file has been generated from package.yaml by hpack version 0.20.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: bdf2629a77960d79359d5207db2604067130a8b6485ca86ee1399b65c2e40eb3
+
+name:           bob18-tutorial-hedgehog
+version:        0.1
+synopsis:       Coure materical for http://bobkonf.de/2018/fischmann.html
+description:    Please see README.md
+category:       Testing
+homepage:       https://github.com/fisx/bob18-tutorial-hedgehog
+author:         Matthias Fischmann <mf@zerobuzz.net>
+maintainer:     mf@zerobuzz.net
+copyright:      2018-2023  Matthias Fischmann
+license:        AGPL
+license-file:   LICENSE
+build-type:     Simple
+cabal-version:  >= 1.10
+
+library
+  hs-source-dirs:
+      src
+  build-depends:
+      base
+    , hedgehog
+    , hedgehog-quickcheck
+    , html-parse
+    , lens
+    , tagsoup
+  other-modules:
+      Paths_bob18_tutorial_hedgehog
+  default-language: Haskell2010
