@@ -19,6 +19,7 @@ dependencies:
   - html-parse
   - tagsoup
   - lens
+  - quickcheck-instances
 
 library:
   source-dirs:

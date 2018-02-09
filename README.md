@@ -1,7 +1,7 @@
 # A hedgehog tutorial
 
-See http://bobkonf.de/2018/fischmann.html for the announcement of the
-bobkonf course in Berlin on Feb 23rd, 2018.
+Course material for the [bobkonf course in Berlin on Feb 23rd,
+2018](http://bobkonf.de/2018/fischmann.html).
 
 
 ### Setup

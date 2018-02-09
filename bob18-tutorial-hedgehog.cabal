@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: bdf2629a77960d79359d5207db2604067130a8b6485ca86ee1399b65c2e40eb3
+-- hash: 5ccf4dc84bb49f3ffec66f0f56aa853a4261183ff3af8bb72b562f0790c92915
 
 name:           bob18-tutorial-hedgehog
 version:        0.1
@@ -27,6 +27,7 @@ library
     , hedgehog-quickcheck
     , html-parse
     , lens
+    , quickcheck-instances
     , tagsoup
   other-modules:
       Paths_bob18_tutorial_hedgehog
