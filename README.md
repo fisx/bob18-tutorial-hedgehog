@@ -4,6 +4,13 @@ Course material for the [bobkonf course in Berlin on Feb 23rd,
 2018](http://bobkonf.de/2018/fischmann.html).
 
 
+### Agenda
+
+In the course we will load `0*.hs` into ghci in order and fill in the
+blanks.  If you want to see what the final files are supposed to look
+like, you can peak into `spoilers/`.
+
+
 ### Setup
 
 You will need an editor of your choice and the terminal to run ghc in
@@ -38,3 +45,12 @@ That's it!  You are ready for the tutorial.
 
 If you are having difficulties getting this far, please check that
 your local repository is in sync with github, then open an issue.
+
+
+### Selected links & further reading
+
+- [bobkonf'18 talk on state machines in quickcheck](http://bobkonf.de/2018/andjelkovic.html), [project on github with **lots** of further reading](https://github.com/advancedtelematic/quickcheck-state-machine#quickcheck-state-machine)
+- [hedgehog @ hackage](https://hackage.haskell.org/package/hedgehog)
+- [hedgehog @ github](https://github.com/hedgehogqa/haskell-hedgehog) (start with the examples directory)
+- author's blogs: http://blog.nikosbaxevanis.com/, http://teh.id.au/; start with http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html
+- instant error reporting on source file change: https://github.com/hspec/sensei, https://github.com/feuerbach/tasty/issues/210
