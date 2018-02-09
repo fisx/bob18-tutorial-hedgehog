@@ -12,7 +12,8 @@ interactive mode.
 Before you come to the course, you should:
 
 ```
-stack upgrade  # (just in case, this has been tested with stack-1.6.3., and is known to fail with stack-1.5.1)
+stack upgrade  # (just in case, this has been tested with 1.6.3., and is known to fail with 1.5.1)
+export PATH=$HOME/.local/bin:$PATH  # (just in case...  this is where stack just installed itself)
 git clone https://github.com/fisx/bob18-tutorial-hedgehog
 cd bob18-tutorial-hedgehog
 stack setup
