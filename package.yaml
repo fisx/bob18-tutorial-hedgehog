@@ -1,6 +1,6 @@
 name:                bob18-tutorial-hedgehog
 version:             "0.1"
-synopsis:            "Coure materical for http://bobkonf.de/2018/fischmann.html"
+synopsis:            "Course material for http://bobkonf.de/2018/fischmann.html"
 description:         Please see README.md
 homepage:            https://github.com/fisx/bob18-tutorial-hedgehog
 license:             AGPL
