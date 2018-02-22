@@ -3,6 +3,8 @@
 Course material for the [bobkonf course in Berlin on Feb 23rd,
 2018](http://bobkonf.de/2018/fischmann.html).
 
+Thanks to @aische for enlightening discussions.
+
 
 ### Agenda
 
